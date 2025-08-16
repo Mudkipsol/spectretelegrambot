@@ -1,2 +1,10 @@
+# nixpacks.toml
 [phases.setup]
 nixPkgs = ["ffmpeg", "exiftool"]
+
+[phases.install]
+# OpenCV & friends need these at runtime
+aptPkgs = ["libgl1", "libglib2.0-0"]
+
+[start]
+cmd = "python bot.py"
