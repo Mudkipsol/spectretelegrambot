@@ -1,1 +1,1 @@
-worker: cd bot && python WorkingBot_FIXED.py
+worker: python WorkingBot_FIXED.py

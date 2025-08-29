@@ -2,7 +2,7 @@
 builder = "dockerfile"
 
 [deploy]
-startCommand = "cd bot && python WorkingBot_FIXED.py"
+startCommand = "python WorkingBot_FIXED.py"
 
 [[services]]
 name = "spectre-telegram-bot"
