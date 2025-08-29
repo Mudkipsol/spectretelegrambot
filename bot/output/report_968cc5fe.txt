@@ -1,0 +1,14 @@
+🎬 Spoof Report — ssstik.io_@avaspammm92_1748988482242 - Copy.mp4
+Preset Used: RANDOMIZED
+Forgery Profile: TIKTOK_IPHONE
+Date: 2025-06-04 19:00:22.638629
+Watermark Removed: True
+Visual Echo: True
+Resolution Tweak: True
+FPS Jitter: False
+Frame Variance: moderate
+Style Morph Preset: TIKTOK_CLEAN
+Motion Profile: STABILIZED_GIMBAL
+Transcode Profile: TIKTOK_IOS
+Random Seed: 1262387965
+AI Detectability Score: 68% (Safe)

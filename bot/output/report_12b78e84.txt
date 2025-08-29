@@ -1,0 +1,14 @@
+🎬 Spoof Report — ssstik.io_@3kittycatss_1755039529332.mp4
+Preset Used: RANDOMIZED
+Forgery Profile: TIKTOK_IPHONE
+Date: 2025-08-12 21:57:21.147624
+Watermark Removed: True
+Visual Echo: True
+Resolution Tweak: True
+FPS Jitter: False
+Frame Variance: moderate
+Style Morph Preset: TIKTOK_CLEAN
+Motion Profile: STABILIZED_GIMBAL
+Transcode Profile: TIKTOK_IOS
+Random Seed: 903495568
+AI Detectability Score: 82% (Safe)
