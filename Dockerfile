@@ -33,3 +33,4 @@ RUN mkdir -p bot/downloads bot/output
 # Change to bot directory and run the main bot script
 WORKDIR /app/bot
 CMD ["python", "WorkingBot_FIXED.py"]
+                                                                                                                               
